@@ -11,8 +11,10 @@ const Sobre = () => (
       dolor qui modi, odio aspernatur ut natus in voluptates nulla velit nihil!
     </Paragrafo>
     <GithubSecao>
-      <img src="https://placehold.co/600x400" alt="" />
-      <img src="https://placehold.co/600x400" alt="" />
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=bukbukwoski1"
+        alt=""
+      />
     </GithubSecao>
   </section>
 )
